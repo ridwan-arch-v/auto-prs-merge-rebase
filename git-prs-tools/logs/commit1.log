@@ -1,9 +1,0 @@
-# Log file for commit and tag operations
-git checkout -b release/1.0.0
-git add .
-git commit -m "initial commit 
-"
-git tag -a 1.0.0 -m "this is a thes and first commit
-"
-git push origin release/1.0.0
-git push origin 1.0.0

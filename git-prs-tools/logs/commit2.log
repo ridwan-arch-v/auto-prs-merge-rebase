@@ -1,9 +1,0 @@
-# Log file for commit and tag operations
-git checkout -b release/1.0.1
-git add .
-git commit -m "test the python
-"
-git tag -a 1.0.1 -m "this is a test
-"
-git push origin release/1.0.1
-git push origin 1.0.1
